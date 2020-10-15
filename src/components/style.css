@@ -1,0 +1,23 @@
+.addusermain,.editusermain,.usermain{
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+}
+
+.addusermain input,.editusermain input{
+    margin: 20px;
+}
+
+.homemain{
+    margin: auto;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.usermain {
+    
+}
