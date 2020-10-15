@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/crudoperations/static/css/main.bd0f38d7.chunk.css",
-    "main.js": "/crudoperations/static/js/main.2d4ba888.chunk.js",
-    "main.js.map": "/crudoperations/static/js/main.2d4ba888.chunk.js.map",
+    "main.js": "/crudoperations/static/js/main.5db0f798.chunk.js",
+    "main.js.map": "/crudoperations/static/js/main.5db0f798.chunk.js.map",
     "runtime-main.js": "/crudoperations/static/js/runtime-main.78461729.js",
     "runtime-main.js.map": "/crudoperations/static/js/runtime-main.78461729.js.map",
     "static/css/2.2d63d0b4.chunk.css": "/crudoperations/static/css/2.2d63d0b4.chunk.css",
     "static/js/2.eb0268f3.chunk.js": "/crudoperations/static/js/2.eb0268f3.chunk.js",
     "static/js/2.eb0268f3.chunk.js.map": "/crudoperations/static/js/2.eb0268f3.chunk.js.map",
     "index.html": "/crudoperations/index.html",
-    "precache-manifest.05a030cfeaca8194941c6acb767540d4.js": "/crudoperations/precache-manifest.05a030cfeaca8194941c6acb767540d4.js",
+    "precache-manifest.97843d515e6172f36935d493f7451927.js": "/crudoperations/precache-manifest.97843d515e6172f36935d493f7451927.js",
     "service-worker.js": "/crudoperations/service-worker.js",
     "static/css/2.2d63d0b4.chunk.css.map": "/crudoperations/static/css/2.2d63d0b4.chunk.css.map",
     "static/css/main.bd0f38d7.chunk.css.map": "/crudoperations/static/css/main.bd0f38d7.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.2d63d0b4.chunk.css",
     "static/js/2.eb0268f3.chunk.js",
     "static/css/main.bd0f38d7.chunk.css",
-    "static/js/main.2d4ba888.chunk.js"
+    "static/js/main.5db0f798.chunk.js"
   ]
 }
